@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Cvx-Learning's documentation!
+Welcome to CFA-Learning's documentation!
 ===================================
 
 .. toctree::
@@ -19,7 +19,14 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
+My other documents
+=========================
+
+* `Convex Optimization <https://cvx-learning.readthedocs.io/>`_
+* `Computer Vision <https://vio.readthedocs.io/>`_
+
 contact me
 ============
 
-gggliuye@gmail.com
+* `CV english 2020 <https://github.com/gggliuye/cvx_learning/blob/master/docs/cv/cv_english.pdf>`_
+* gggliuye@gmail.com
