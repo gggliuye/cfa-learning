@@ -7,4 +7,5 @@ My CFA learning document
    :maxdepth: 3
    :caption: Contents:
 
-   Ethical
+   1Ethical
+   2CodeStandard
